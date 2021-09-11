@@ -37,3 +37,4 @@ lorem ipsum 15
 Here is some `code` in the `text`.
 
 ```bash
+echo "hello"
