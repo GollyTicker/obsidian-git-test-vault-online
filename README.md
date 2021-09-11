@@ -47,3 +47,19 @@ pre
 for
 matted
 text
+</pre>
+
+<b>bold</b>
+
+### Formatting
+**bold**
+*italic*
+~~strikethrough~~
+_italic_
+
+### Links
+[[my-sub-mod/README]]
+[[my-sub-mod/README#obsidian-git-test-vault-online-submodule]]
+![[my-sub-mod/README#obsidian-git-test-vault-online-submodule]]
+
+### Images
