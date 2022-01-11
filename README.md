@@ -97,3 +97,6 @@ footnotes:
 
 ### Mermaid
 ```mermaid
+graph TD
+
+A[my-sub-mod/README]
