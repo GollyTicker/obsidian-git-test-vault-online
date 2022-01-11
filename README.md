@@ -71,3 +71,18 @@ _italic_
 	ipsum
 
 > lorem
+> ipsum
+
+### h rule
+a
+
+---
+
+b
+
+***
+
+c
+
+### Tables
+Tables can be justified with a colon | Another example with a long title
