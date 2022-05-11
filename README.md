@@ -93,3 +93,7 @@ because of the `:` | these will be justified
 some text with a footnote [^1]
 
 footnotes:
+[^1]: meaningful
+
+### Mermaid
+```mermaid
