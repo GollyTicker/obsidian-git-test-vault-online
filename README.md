@@ -33,3 +33,7 @@ lorem ipsum 15
 	1. 21
 3. 3
 
+### Code
+Here is some `code` in the `text`.
+
+```bash
