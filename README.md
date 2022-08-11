@@ -87,3 +87,9 @@ c
 ### Tables
 Tables can be justified with a colon | Another example with a long title
 :----------------|-------------:
+because of the `:` | these will be justified
+
+### Footnotes
+some text with a footnote [^1]
+
+footnotes:
