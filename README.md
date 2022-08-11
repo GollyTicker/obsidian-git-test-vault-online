@@ -16,3 +16,20 @@ lorem ipsum 13
 lorem ipsum 14
 lorem ipsum 15
 
+### Bullet points
+* b1
+	* [ ] b11
+	* b12
+* b2
+	* b21
+	* [ ] b22
+		* b221
+		* [x] b222
+* b3
+
+1. 1
+	1. 11
+2. 2
+	1. 21
+3. 3
+
