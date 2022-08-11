@@ -64,3 +64,7 @@ _italic_
 
 ### Images
 ![img](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+### Quotes
+
+	lorem
