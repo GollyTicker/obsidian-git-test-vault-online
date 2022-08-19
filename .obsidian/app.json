@@ -1,1 +1,5 @@
-{}
+{
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true
+}
