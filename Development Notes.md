@@ -9,3 +9,11 @@ Thie relative-line-numbers CodeMirror6 (CM6) extension is just a [few dozens of 
 Furthermore, the [CM6 Gutter API](https://codemirror.net/examples/gutter/) seems to be what we need to show the authoring info.
 
 The [GutterMarker](https://codemirror.net/docs/ref/#view.GutterMarker) is what is actually rendered.
+
+# Extracting information from Git
+
+```bash
+git blame --color-by-age README.md
+```
+
+We can use `--porcelain` to get machine-readable information.
