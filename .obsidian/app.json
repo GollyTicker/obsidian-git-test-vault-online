@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "strictLineBreaks": false,
-  "showLineNumber": false
+  "showLineNumber": false,
+  "promptDelete": false
 }
