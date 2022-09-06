@@ -21,6 +21,7 @@
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
   "username": "",
+  "showedMobileNotice": true,
   "showLineAuthorInfo": true,
   "authorDisplayLineAuthorInfo": "full"
 }
