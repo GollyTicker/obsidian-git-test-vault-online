@@ -27,5 +27,6 @@
   "dateTimeFormatOptionsLineAuthorInfo": "date",
   "dateTimeFormatCustomStringLineAuthorInfo": "YYYY-MM-DD HH:mm",
   "dateTimeTimezoneLineAuthorInfo": "local",
+  "coloringMaxAgeLineAuthorInfo": "1y",
   "dateTimeInCurrentTimezoneLineAuthorInfo": false
 }
