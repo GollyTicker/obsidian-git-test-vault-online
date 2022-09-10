@@ -23,5 +23,9 @@
   "username": "",
   "showedMobileNotice": true,
   "showLineAuthorInfo": true,
-  "authorDisplayLineAuthorInfo": "full"
+  "authorDisplayLineAuthorInfo": "full",
+  "dateTimeFormatOptionsLineAuthorInfo": "date",
+  "dateTimeFormatCustomStringLineAuthorInfo": "YYYY-MM-DD HH:mm",
+  "dateTimeTimezoneLineAuthorInfo": "local",
+  "dateTimeInCurrentTimezoneLineAuthorInfo": false
 }
