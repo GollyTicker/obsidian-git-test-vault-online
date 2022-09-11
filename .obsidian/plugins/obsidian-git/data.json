@@ -24,6 +24,7 @@
   "showedMobileNotice": true,
   "showLineAuthorInfo": true,
   "authorDisplayLineAuthorInfo": "full",
+  "showCommitHashLineAuthorInfo": false,
   "dateTimeFormatOptionsLineAuthorInfo": "date",
   "dateTimeFormatCustomStringLineAuthorInfo": "YYYY-MM-DD HH:mm",
   "dateTimeTimezoneLineAuthorInfo": "local",
