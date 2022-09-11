@@ -1,0 +1,3 @@
+[submodule "my-sub-mod"]
+	path = my-sub-mod
+	url = git@github.com:GollyTicker/obsidian-git-test-vault-online-submodule.git
