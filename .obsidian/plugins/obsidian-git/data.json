@@ -22,6 +22,7 @@
   "changedFilesInStatusBar": false,
   "username": "",
   "showedMobileNotice": true,
+  "refreshSourceControlTimer": 7000,
   "showLineAuthorInfo": true,
   "authorDisplayLineAuthorInfo": "full",
   "showCommitHashLineAuthorInfo": false,
