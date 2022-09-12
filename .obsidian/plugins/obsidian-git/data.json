@@ -30,5 +30,15 @@
   "dateTimeFormatCustomStringLineAuthorInfo": "YYYY-MM-DD HH:mm",
   "dateTimeTimezoneLineAuthorInfo": "local",
   "coloringMaxAgeLineAuthorInfo": "1y",
+  "colorOldLineAuthorInfo": {
+    "r": 120,
+    "g": 160,
+    "b": 255
+  },
+  "colorNewLineAuthorInfo": {
+    "r": 255,
+    "g": 150,
+    "b": 150
+  },
   "dateTimeInCurrentTimezoneLineAuthorInfo": false
 }
