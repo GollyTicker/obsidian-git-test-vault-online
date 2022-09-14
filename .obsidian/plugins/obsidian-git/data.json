@@ -24,6 +24,7 @@
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showLineAuthorInfo": true,
+  "followMovementLineAuthorInfo": "inactive",
   "authorDisplayLineAuthorInfo": "hide",
   "showCommitHashLineAuthorInfo": true,
   "dateTimeFormatOptionsLineAuthorInfo": "custom",
@@ -40,5 +41,6 @@
     "g": 150,
     "b": 150
   },
+  "trackMovementLineAuthorInfo": "inactive",
   "dateTimeInCurrentTimezoneLineAuthorInfo": false
 }
