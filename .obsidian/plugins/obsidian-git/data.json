@@ -24,7 +24,7 @@
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showLineAuthorInfo": true,
-  "followMovementLineAuthorInfo": "inactive",
+  "followMovementLineAuthorInfo": "same-commit",
   "authorDisplayLineAuthorInfo": "hide",
   "showCommitHashLineAuthorInfo": true,
   "dateTimeFormatOptionsLineAuthorInfo": "custom",
