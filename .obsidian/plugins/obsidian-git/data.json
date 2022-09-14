@@ -31,15 +31,15 @@
   "dateTimeFormatCustomStringLineAuthorInfo": "HH:mm:ss",
   "dateTimeTimezoneLineAuthorInfo": "local",
   "coloringMaxAgeLineAuthorInfo": "1y",
-  "colorOldLineAuthorInfo": {
-    "r": 120,
-    "g": 160,
-    "b": 255
-  },
   "colorNewLineAuthorInfo": {
+    "r": 154,
+    "g": 138,
+    "b": 246
+  },
+  "colorOldLineAuthorInfo": {
     "r": 255,
-    "g": 150,
-    "b": 150
+    "g": 255,
+    "b": 255
   },
   "trackMovementLineAuthorInfo": "inactive",
   "dateTimeInCurrentTimezoneLineAuthorInfo": false
