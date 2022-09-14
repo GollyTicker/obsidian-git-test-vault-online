@@ -32,13 +32,13 @@
   "dateTimeTimezoneLineAuthorInfo": "local",
   "coloringMaxAgeLineAuthorInfo": "1y",
   "colorNewLineAuthorInfo": {
-    "r": 154,
-    "g": 138,
-    "b": 246
+    "r": 255,
+    "g": 150,
+    "b": 150
   },
   "colorOldLineAuthorInfo": {
-    "r": 255,
-    "g": 255,
+    "r": 120,
+    "g": 160,
     "b": 255
   },
   "trackMovementLineAuthorInfo": "inactive",
