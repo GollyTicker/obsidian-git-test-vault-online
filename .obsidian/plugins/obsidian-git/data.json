@@ -27,8 +27,8 @@
   "followMovementLineAuthorInfo": "all-commits",
   "authorDisplayLineAuthorInfo": "hide",
   "showCommitHashLineAuthorInfo": true,
-  "dateTimeFormatOptionsLineAuthorInfo": "date",
-  "dateTimeFormatCustomStringLineAuthorInfo": "HH:mm:ss",
+  "dateTimeFormatOptionsLineAuthorInfo": "custom",
+  "dateTimeFormatCustomStringLineAuthorInfo": "MM-DD",
   "dateTimeTimezoneLineAuthorInfo": "local",
   "coloringMaxAgeLineAuthorInfo": "1y",
   "colorNewLineAuthorInfo": {
