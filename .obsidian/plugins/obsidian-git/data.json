@@ -27,7 +27,7 @@
   "followMovementLineAuthorInfo": "all-commits",
   "authorDisplayLineAuthorInfo": "full",
   "showCommitHashLineAuthorInfo": false,
-  "dateTimeFormatOptionsLineAuthorInfo": "hide",
+  "dateTimeFormatOptionsLineAuthorInfo": "date",
   "dateTimeFormatCustomStringLineAuthorInfo": "MM-DD",
   "dateTimeTimezoneLineAuthorInfo": "local",
   "coloringMaxAgeLineAuthorInfo": "1y",
@@ -41,6 +41,7 @@
     "g": 160,
     "b": 255
   },
+  "gutterSpacingFallbackLengthLineAuthorInfo": 23,
   "trackMovementLineAuthorInfo": "inactive",
   "dateTimeInCurrentTimezoneLineAuthorInfo": false
 }
