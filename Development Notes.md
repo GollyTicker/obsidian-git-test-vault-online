@@ -10,6 +10,7 @@ Furthermore, the [CM6 Gutter API](https://codemirror.net/examples/gutter/) seems
 
 The [GutterMarker](https://codemirror.net/docs/ref/#view.GutterMarker) is what is actually rendered.
 
+
 # Extracting information from Git
 
 ```bash

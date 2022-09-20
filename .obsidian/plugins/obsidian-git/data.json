@@ -25,7 +25,7 @@
   "refreshSourceControlTimer": 7000,
   "showLineAuthorInfo": true,
   "followMovementLineAuthorInfo": "all-commits",
-  "authorDisplayLineAuthorInfo": "initials",
+  "authorDisplayLineAuthorInfo": "full",
   "showCommitHashLineAuthorInfo": false,
   "dateTimeFormatOptionsLineAuthorInfo": "hide",
   "dateTimeFormatCustomStringLineAuthorInfo": "MM-DD",
