@@ -17,5 +17,6 @@ The [GutterMarker](https://codemirror.net/docs/ref/#view.GutterMarker) is what i
 git blame --color-by-age README.md
 ```
 
+
 We can use `--porcelain` to get machine-readable information.
 
