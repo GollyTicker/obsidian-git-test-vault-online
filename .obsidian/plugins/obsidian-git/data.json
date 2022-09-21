@@ -25,7 +25,7 @@
   "refreshSourceControlTimer": 7000,
   "showLineAuthorInfo": true,
   "followMovementLineAuthorInfo": "all-commits",
-  "authorDisplayLineAuthorInfo": "full",
+  "authorDisplayLineAuthorInfo": "initials",
   "showCommitHashLineAuthorInfo": false,
   "dateTimeFormatOptionsLineAuthorInfo": "date",
   "dateTimeFormatCustomStringLineAuthorInfo": "MM-DD",
@@ -41,7 +41,7 @@
     "g": 160,
     "b": 255
   },
-  "gutterSpacingFallbackLengthLineAuthorInfo": 23,
+  "gutterSpacingFallbackLengthLineAuthorInfo": 14,
   "trackMovementLineAuthorInfo": "inactive",
   "dateTimeInCurrentTimezoneLineAuthorInfo": false
 }
