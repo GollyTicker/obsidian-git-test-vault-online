@@ -23,6 +23,7 @@
   "username": "",
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
+  "showBranchStatusBar": true,
   "showLineAuthorInfo": true,
   "followMovementLineAuthorInfo": "all-commits",
   "authorDisplayLineAuthorInfo": "initials",
