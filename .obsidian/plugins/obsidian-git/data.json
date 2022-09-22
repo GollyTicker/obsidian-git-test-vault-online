@@ -42,7 +42,7 @@
     "g": 160,
     "b": 255
   },
-  "gutterSpacingFallbackLengthLineAuthorInfo": 8,
+  "gutterSpacingFallbackLengthLineAuthorInfo": 13,
   "trackMovementLineAuthorInfo": "inactive",
   "dateTimeInCurrentTimezoneLineAuthorInfo": false
 }
