@@ -24,25 +24,25 @@
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
-  "showLineAuthorInfo": true,
-  "followMovementLineAuthorInfo": "all-commits",
-  "authorDisplayLineAuthorInfo": "initials",
-  "showCommitHashLineAuthorInfo": false,
-  "dateTimeFormatOptionsLineAuthorInfo": "date",
-  "dateTimeFormatCustomStringLineAuthorInfo": "MM-DD",
-  "dateTimeTimezoneLineAuthorInfo": "local",
-  "coloringMaxAgeLineAuthorInfo": "1y",
-  "colorNewLineAuthorInfo": {
-    "r": 255,
-    "g": 150,
-    "b": 150
-  },
-  "colorOldLineAuthorInfo": {
-    "r": 120,
-    "g": 160,
-    "b": 255
-  },
-  "gutterSpacingFallbackLengthLineAuthorInfo": 13,
-  "trackMovementLineAuthorInfo": "inactive",
-  "dateTimeInCurrentTimezoneLineAuthorInfo": false
+  "lineAuthor": {
+    "show": true,
+    "followMovement": "all-commits",
+    "authorDisplay": "initials",
+    "showCommitHash": false,
+    "dateTimeFormatOptions": "custom",
+    "dateTimeFormatCustomString": "YY-MM",
+    "dateTimeTimezone": "local",
+    "coloringMaxAge": "1y",
+    "colorNew": {
+      "r": 255,
+      "g": 150,
+      "b": 150
+    },
+    "colorOld": {
+      "r": 120,
+      "g": 160,
+      "b": 255
+    },
+    "gutterSpacingFallbackLength": 8
+  }
 }
