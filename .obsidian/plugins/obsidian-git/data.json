@@ -29,9 +29,9 @@
     "followMovement": "all-commits",
     "authorDisplay": "initials",
     "showCommitHash": false,
-    "dateTimeFormatOptions": "hide",
-    "dateTimeFormatCustomString": "YY-MM",
-    "dateTimeTimezone": "local",
+    "dateTimeFormatOptions": "date",
+    "dateTimeFormatCustomString": "DD.MM.YY",
+    "dateTimeTimezone": "viewer-local",
     "coloringMaxAge": "1y",
     "colorNew": {
       "r": 255,
@@ -43,6 +43,6 @@
       "g": 160,
       "b": 255
     },
-    "gutterSpacingFallbackLength": 1
+    "gutterSpacingFallbackLength": 13
   }
 }
