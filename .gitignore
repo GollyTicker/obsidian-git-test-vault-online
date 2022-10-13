@@ -1,4 +1,5 @@
 .obsidian/workspace
+.obsidian/workspace.json
 .obsidian/cache
 .trash
 # The plugin folder are simply symbolic links to the main.js, styles.css and manifest.json

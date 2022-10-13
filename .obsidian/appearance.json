@@ -1,4 +1,7 @@
 {
-  "baseFontSize": 29,
-  "theme": "moonstone"
+  "baseFontSize": 21,
+  "theme": "moonstone",
+  "accentColor": "",
+  "showViewHeader": false,
+  "nativeMenus": false
 }

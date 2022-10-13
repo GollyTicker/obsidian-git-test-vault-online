@@ -43,6 +43,8 @@
       "g": 160,
       "b": 255
     },
-    "gutterSpacingFallbackLength": 13
+    "gutterSpacingFallbackLength": 13,
+    "lastShownAuthorDisplay": "initials",
+    "lastShownDateTimeFormatOptions": "date"
   }
 }
