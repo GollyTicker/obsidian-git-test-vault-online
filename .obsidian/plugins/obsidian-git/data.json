@@ -44,7 +44,7 @@
       "b": 255
     },
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 12,
+    "gutterSpacingFallbackLength": 13,
     "lastShownAuthorDisplay": "initials",
     "lastShownDateTimeFormatOptions": "date"
   }
