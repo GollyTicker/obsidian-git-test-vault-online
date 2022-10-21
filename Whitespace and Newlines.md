@@ -1,6 +1,6 @@
-lorem ipsum 1
-lorem ipsum 2
-lorem ipsum 3
-lorem ipsum 4
-lorem ipsum 5
-lorem ipsum 6
+lorem 1
+lorem 2
+lorem 3
+lorem 4
+lorem 5
+lorem 6
