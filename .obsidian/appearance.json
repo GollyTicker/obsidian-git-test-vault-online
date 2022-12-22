@@ -3,5 +3,6 @@
   "theme": "moonstone",
   "accentColor": "",
   "showViewHeader": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "cssTheme": ""
 }
