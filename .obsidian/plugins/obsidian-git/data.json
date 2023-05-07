@@ -1,6 +1,5 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
@@ -23,12 +22,16 @@
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
+  "setLastSaveToLastCommit": false,
+  "submoduleRecurseCheckout": false,
+  "gitDir": "",
+  "showFileMenu": true,
   "lineAuthor": {
     "show": true,
     "followMovement": "all-commits",
     "authorDisplay": "initials",
     "showCommitHash": false,
-    "dateTimeFormatOptions": "date",
+    "dateTimeFormatOptions": "datetime",
     "dateTimeFormatCustomString": "DD.MM.YY",
     "dateTimeTimezone": "viewer-local",
     "coloringMaxAge": "1y",
@@ -44,9 +47,9 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 13,
+    "gutterSpacingFallbackLength": 19,
     "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
+    "lastShownDateTimeFormatOptions": "datetime"
   },
-  "setLastSaveToLastCommit": false
+  "autoCommitMessage": "vault backup: {{date}}"
 }
